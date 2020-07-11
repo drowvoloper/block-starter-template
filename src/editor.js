@@ -1,0 +1,1 @@
+/* HINT: import './blocks/block';*/
